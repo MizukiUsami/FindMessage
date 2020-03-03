@@ -1,0 +1,9 @@
+D:\VS2017program\FindMessage\bin\Debug\FindMessage.exe.config
+D:\VS2017program\FindMessage\bin\Debug\FindMessage.exe
+D:\VS2017program\FindMessage\bin\Debug\FindMessage.pdb
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.csprojAssemblyReference.cache
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.Form1.resources
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.Properties.Resources.resources
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.csproj.GenerateResource.cache
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.exe
+D:\VS2017program\FindMessage\obj\Debug\FindMessage.pdb
